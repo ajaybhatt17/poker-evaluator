@@ -23,7 +23,7 @@
     "jest": "^20.0.4"
   },
   "main": "./lib/PokerEvaluator.js",
-  "typings": "./lib/index.d.ts",
+  "typings": "./poker-evaluator.d.ts",
   "engines": {
     "node": ">= 0.6.0"
   }
